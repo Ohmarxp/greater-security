@@ -3,20 +3,15 @@
 function generatePassword() {
 console.log('Button clicked!');
 
-var userChoice = window.prompt("Enter length of password:");
-if (!userChoice) {
+var passwordChoice = window.prompt("Enter length of password: 8 - 120");
+if (!passwordChoice) {
   return;
 }
-var userChoice = window.prompt("Enter character type:");
-if (!userChoice) {
+var passworduserChoice = window.prompt("Enter character type: lower case, uppercase, numeric, and/or special");
+if (!passworduserChoice) {
   return;
 }
-var userChoice = window.prompt("Enter amount of characters:");
-
-if (!userChoice) {
-  return;
-}
- 
+return 'Passsword generator under development'
 }
 
 
