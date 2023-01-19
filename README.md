@@ -8,13 +8,13 @@ This project is the third challenge assignmet for boot camp students. In this pr
 
 To use the password generator, click the button labeled "Generate Password" and fill in the options for your password.
 
-![Deployed webpage]()
+![Deployed webpage](assets/images/Webpage-deployed.png)
 
 ## Credits
 
-Link to deployed application: 
+Link to deployed application: https://ohmarxp.github.io/greater-security/
 
-Starter code can be found here: 
+Starter code can be found here: https://github.com/coding-boot-camp/friendly-parakeet
 
 ## License
 
