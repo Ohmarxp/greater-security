@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Greater Security
 
 ## Description
 
